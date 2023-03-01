@@ -7,7 +7,7 @@
 //     - What is the month today as a number?
 
 // const now = new Date();
-// console.log(now.getMonth());
+// console.log(now.getMonth()+1);
 
 // Note
 // JavaScript counts months from 0 to 11: January = 0. and December = 11.
